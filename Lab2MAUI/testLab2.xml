@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+	<student
+        NAME="Коваль Артем Миколайович"
+        FACULTY="Факультет інформаційних технологій"
+        DEPARTMENT="Кафедра програмування"
+        COURSE="2"
+        ROOMNUMBER="301"
+        PHONENUMBER="+380991234567"
+        PAYMENTSTATUS="Оплачено"
+        AVAILABILITYOFBENEFITS="Так"
+        SUBORDINATION="Кафедра програмування"
+        ADDRESS="вул. Політехнічна, 41, Київ">
+	</student>
+	<student
+        NAME="Сидорова Ольга Петрівна"
+        FACULTY="Факультет комп'ютерних наук та кібернетики"
+        DEPARTMENT="МІ"
+        COURSE="3"
+        ROOMNUMBER="215"
+        PHONENUMBER="+380992345678"
+        PAYMENTSTATUS="Оплачено"
+        AVAILABILITYOFBENEFITS="Ні"
+        SUBORDINATION="МІ"
+        ADDRESS="вул. Політехнічна, 41, Київ">
+	</student>
+	<student
+        NAME="Григоренко Олександр Миколайович"
+        FACULTY="Факультет інформаційних технологій"
+        DEPARTMENT="Кафедра штучного інтелекту"
+        COURSE="2"
+        ROOMNUMBER="405"
+        PHONENUMBER="+380993456789"
+        PAYMENTSTATUS="Не оплачено"
+        AVAILABILITYOFBENEFITS="Так"
+        SUBORDINATION="Кафедра штучного інтелекту"
+        ADDRESS="вул. Політехнічна, 41, Київ">
+	</student>
+	<student
+        NAME="Іванов Іван Іванович"
+        FACULTY="Факультет комп'ютерних наук та кібернетики"
+        DEPARTMENT="ТТП"
+        COURSE="3"
+        ROOMNUMBER="112"
+        PHONENUMBER="+380994567890"
+        PAYMENTSTATUS="Оплачено"
+        AVAILABILITYOFBENEFITS="Так"
+        SUBORDINATION="ТТП"
+        ADDRESS="вул. Політехнічна, 41, Київ">
+	</student>
+	<student
+        NAME="Петрова Марія Сергіївна"
+        FACULTY="Факультет інформаційних технологій"
+        DEPARTMENT="Кафедра інформаційних систем"
+        COURSE="2"
+        ROOMNUMBER="203"
+        PHONENUMBER="+380995678901"
+        PAYMENTSTATUS="Оплачено"
+        AVAILABILITYOFBENEFITS="Так"
+        SUBORDINATION="Кафедра інформаційних систем"
+        ADDRESS="вул. Політехнічна, 41, Київ">
+	</student>
+</Students>
